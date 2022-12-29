@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blaze.png">
+<SubTexture name="Blaze Down0000" x="1320" y="541" width="337" height="491" frameX="-10" frameY="-23" frameWidth="360" frameHeight="515" />
+<SubTexture name="Blaze Down0001" x="1665" y="519" width="323" height="497" frameX="-19" frameY="-16" frameWidth="360" frameHeight="515" />
+<SubTexture name="Blaze Down0002" x="1665" y="1016" width="323" height="497" frameX="-19" frameY="-17" frameWidth="360" frameHeight="515" />
+<SubTexture name="Blaze Idle0000" x="972" y="552" width="332" height="543" frameX="-5" frameY="-28" frameWidth="360" frameHeight="570" />
+<SubTexture name="Blaze Idle0001" x="1001" y="0" width="319" height="546" frameX="-18" frameY="-25" frameWidth="360" frameHeight="570" />
+<SubTexture name="Blaze Idle0002" x="0" y="552" width="324" height="546" frameX="-12" frameY="-24" frameWidth="360" frameHeight="570" />
+<SubTexture name="Blaze Idle0003" x="339" y="0" width="332" height="550" frameX="-3" frameY="-19" frameWidth="360" frameHeight="570" />
+<SubTexture name="Blaze Left0000" x="347" y="1098" width="459" height="529" frameX="-18" frameY="-22" frameWidth="500" frameHeight="550" />
+<SubTexture name="Blaze Left0001" x="1665" y="0" width="477" height="519" frameX="-15" frameY="-33" frameWidth="500" frameHeight="550" />
+<SubTexture name="Blaze Left0002" x="806" y="1098" width="475" height="524" frameX="-14" frameY="-29" frameWidth="500" frameHeight="550" />
+<SubTexture name="Blaze Right0000" x="671" y="0" width="330" height="547" frameX="-9" frameY="-21" frameWidth="360" frameHeight="565" />
+<SubTexture name="Blaze Right0001" x="324" y="552" width="325" height="545" frameX="-8" frameY="-19" frameWidth="360" frameHeight="565" />
+<SubTexture name="Blaze Right0002" x="649" y="552" width="323" height="544" frameX="-11" frameY="-20" frameWidth="360" frameHeight="565" />
+<SubTexture name="Blaze Up0000" x="0" y="1098" width="347" height="534" frameX="-2" frameY="-27" frameWidth="375" frameHeight="560" />
+<SubTexture name="Blaze Up0001" x="0" y="0" width="339" height="552" frameX="-7" frameY="-8" frameWidth="375" frameHeight="560" />
+<SubTexture name="Blaze Up0002" x="1320" y="0" width="345" height="541" frameX="0" frameY="-17" frameWidth="375" frameHeight="560" />
+<SubTexture name="Blaze yeah0000" x="1112" y="1632" width="407" height="485" frameX="-2" frameY="-27" frameWidth="610" frameHeight="510" />
+<SubTexture name="Blaze yeah0001" x="0" y="1632" width="521" height="495" frameX="-7" frameY="-16" frameWidth="610" frameHeight="510" />
+<SubTexture name="Blaze yeah0002" x="521" y="1632" width="591" height="492" frameX="-9" frameY="-18" frameWidth="610" frameHeight="510" />
+</TextureAtlas>
